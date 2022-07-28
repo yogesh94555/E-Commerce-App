@@ -1,0 +1,199 @@
+[
+  {
+    "name": "HARDEN VOL. 5 FUTURENATURAL SHOES",
+    "id": 1,
+    "details": "Red shoes make a bold statement that say you're ready to be seen. Choose an irresistible pair of red shoes from the adidas range and you won't have to sacrifice comfort or function to look great at the gym or just hanging out.",
+    "price": 10199,
+    "image": "./Images/red Shoe.jpg"
+  },
+  {
+    "name": "SUPERSTAR SHOES",
+    "id": 2,
+    "details": "These kids' adidas trainers are in it for the whole day. Throw them on before school and your kids are ready for any kind of activity, from running to catch the bus to circling the track in gym class to hanging with friends during lunch in the cafeteria.",
+    "price": 7999,
+    "image": "./Images/White Shoe.jpg"
+  },
+  {
+    "name": "M&M'S BRAND FORUM LOW 84 SHOES",
+    "id": 3,
+    "details": "Everyone has their favourite M&M'S Brand colours — what's yours? Show it off with these adidas Forum shoes.",
+    "price": 8999,
+    "image": "./Images/Yellow Shoe.jpg"
+  },
+  {
+    "name": "LITE RACER ADAPT 4.0 SHOES",
+    "id": 4,
+    "details": "Slip on and go. These versatile running-inspired shoes are made to help you get out the door quickly. The elastic strap gives you a locked-down feel when you're moving at top speed. Soft Cloudfoam cushioning is for lasting comfort when you're on your feet for longer than expected.",
+    "price": 4619,
+    "image": "./Images/Black Shining Shoe.jpg"
+  },
+  {
+    "name": "Nokia 3",
+    "id": 5,
+    "details": "The Nokia 3, the most affordable of the three new Nokia-branded Android smartphones, was launched in India last month. It is the first smartphone with the Nokia name to hit the Indian market in a long time, but it's worth pointing out that it hasn't been manufactured by Nokia itself. The company that once dominated global smartphone sales is getting a second shot at the mobile business.",
+    "price": 16000,
+    "image": "./Images/Nokia 3.jpg"
+  },
+  {
+    "name": "Vivo 9",
+    "id": 6,
+    "details": "The Vivo V9 is one of the first Android phones to sport a notch at the top of the display. It has a 6.3-inch IPS display with a 19:9 ratio and a resolution of 1080x2280 pixels. Powering the phone is a Snapdragon 626 octa-core processor clocked at 2.2GHz. It has 4GB of RAM and the device has 64GB of internal storage. The V9 is a dual SIM device and has two nano SIM slots along with a dedicated microSD card slot.",
+    "price": 15000,
+    "image": "./Images/Vivo 9.jpg"
+  },
+
+  {
+    "name": "APPLE iPhone 12 (Blue, 128 GB)",
+    "id": 7,
+    "details": "Another beauty from Apple. I was upgraded from iPhone X and it was great experience with all the latest specs and flawlessly smooth. Thanks to all new A14 Bionic chip. Build quality was great as always from Apple.Phone feels light on hands due to aluminium body. I chose Blue colour because wanted to go for different colour than routine Black and white iPhones so initially I was bit skeptical but after seeing the phone in person.",
+    "price": 56999,
+    "image": "./Images/I phone 12.jpg"
+  },
+  {
+    "name": "One Plus 6",
+    "id": 8,
+    "details": "USB 2.0, Type-C, Support USB Audio Dual nano-SIM slot 3.5 mm audio jack, 3300 mAh (non-removable) Fast Charging (5V 4A), Gestures and on-screen navigation support Alert Slider Size: 6.28 inches (The corners of the screen are within a standard rectangle. Measured diagonally, the screen size is 6.28 inches in the full rectangle and 6.12 inches accounting for the rounded corners.) etc.",
+    "price": 35000,
+    "image": "./Images/one Plus 6.jpg"
+  },
+  {
+    "name": "SONY Xperia XA1 Plus (Black, 32 GB)  (4 GB RAM)",
+    "id": 9,
+    "details": "The 13.97 cm (5.5) Full HD Display of the Sony Xperia XA1 Plus will enhance your visual experience on the move. This smartphone features a premium 23 MP camera with an Exmor RS sensor, 4 GB of RAM, and a Fingerprint Sensor which offer an impressive multitasking experience.",
+    "price": 19990,
+    "image": "./Images/Sony Xperia.jpg"
+  },
+  {
+    "name": "Apple MacBoook Air 16 inch",
+    "id": 10,
+    "details": "Apple MacBook Pro 16-inch 2021 is a macOS laptop with a 16.20-inch display that has a resolution of 3546x2234 pixels. It is powered by a Apple M1 Pro processor and it comes with 16GB of RAM. The Apple MacBook Pro 16-inch 2021 packs 512GB of SSD storage.",
+    "price": 89000,
+    "image": "./Images/Apple_Mac.png"
+  },
+  {
+    "name": "ASUS Gaming Laptop",
+    "id": 11,
+    "details": "Asus ROG GL551 is a Windows 10 laptop with a 15.00-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i7 processor and it comes with 8GB of RAM. The Asus ROG GL551 packs 1TB of HDD storage. Graphics are powered by Nvidia GeForce GTX 950M.",
+    "price": 90000,
+    "image": "./Images/Asus Gaming Laptop.png"
+  },
+  {
+    "name": "Dell Laptop",
+    "id": 12,
+    "details": "Powerful Tech That Fit All Budget. Laptops with 11th Gen Intel® Core™ Processor. Buy Now. Comfort View Makes Extended Screen Time Easy On The Eyes. Technology That Fits Your Budget. Free Headset* Discount on UPI Payment. Warranty Upgrades. Get Voucher*.",
+    "price": 47000,
+    "image": "./Images/Dell Laptop.png"
+  },
+  {
+    "name": "Black Gown",
+    "id": 13,
+    "details": "Explore Meesho For Black Color Women Gown Designs At Exciting Prices. Black gowns have become a must-have piece of clothing in every woman's wardrobe. These gowns resemble maxi dresses in many ways. Casual black gowns can be worn almost anywhere. The best fabric choice would be Cotton or Rayon for these gowns.",
+    "price": 12000,
+    "image": "./Images/Black Dress.png"
+  },
+  {
+    "name": "Blue Gown",
+    "id": 14,
+    "details": "The navy blue gown dress for a formal event is typically off the shoulder, with long bouffant style skirts paired with regal scarves or stoles and vintage. Blue Dresses - Buy Blue Dresses for women & girls at India's Best Online Shopping Store. Check Navy Dresses Price in India and Shop Online.",
+    "price": 15000,
+    "image": "./Images/blue dress.png"
+  },
+  {
+    "name": "Red Gown",
+    "id": 15,
+    "details": " RED is always the choice. See more ideas about red dress, red gowns, fashion. Carla Zampatti, Fashion Details, Red Wedding, Wedding Dress. Price and other details may vary based on product size and colour. Florely Women's Georgette Long Anarkali Gown Maxi Dress.",
+    "price": 10000,
+    "image": "./Images/Red Dress.png"
+  },
+  {
+    "name": "White Shirt",
+    "id": 16,
+    "details": "Worn formally, the white shirt is unmatched at black or white tie affairs thanks to extra details such as detachable collars, French cuffs and a wing collar. Luxury Sequin Striped Men's Shirt Slim Fit Long Sleeve Casual Shirt Male Business Formal Dress Shirts Social Party Tuxedo Blouse.",
+    "price": 1200,
+    "image": "./Images/White Check Shirt.png"
+  },
+  {
+    "name": "Red T-Shirt",
+    "id": 17,
+    "details": "Buy Red Men's T-Shirts online in India at Bewakoof.com. Shop from our huge collection Red Men's T-Shirts at best price. Free Shipping, COD Available!. Plain Red 100% Cotton Full Sleeve T Shirt ; GSM, 180 ; Weight, 200 ; Box Content, All Sizes ; Dimensions, 22*22*2 ; Washable, Yes.",
+    "price": 500,
+    "image": "./Images/Red T-Shirt.png"
+  },
+  {
+    "name": "Amplifier",
+    "id": 18,
+    "details": "An amplifier is an electronic device that increases the voltage, current, or power of a signal. Amplifiers are used in wireless communications and broadcasting, and in audio equipment of all kinds. They can be categorized as either weak-signal amplifiers or power amplifiers.",
+    "price": 6500,
+    "image": "./Images/Amplifyer.png"
+  },
+  {
+    "name": "JBL Speaker",
+    "id": 19,
+    "details": "The lowest price of JBL Go Wireless Bluetooth Speaker is ₹ 1,699 at Amazon on 25th July 2022 JBLs waterproof & outdoor speakers, designed to deliver incredible sound clarity any season. Let these speakers fill your outdoor space with amazing sound!. JBL is an American audio equipment manufacturer headquartered in Los Angeles, California, United States. JBL serves the consumer home and professional.",
+    "price": 4500,
+    "image": "./Images/JBL Speaker.png"
+  },
+  {
+    "name": "Electric Gas",
+    "id": 20,
+    "details": "Find here online price details of companies selling Electric Gas Stove. Get info of suppliers, manufacturers, exporters, traders of Electric Gas Stove. Comparison of various types of cooktops: Induction, Electric and Gas on energy consumption.",
+    "price": 3000,
+    "image": "./Images/Electric Gas.jpg"
+  },
+  {
+    "name": "Bowl",
+    "id": 21,
+    "details": "A bowl typically is a round dish or container generally used for preparing, serving, or consuming food. The interior of a bowl is characteristically shaped. Bowling is a target sport and recreational activity in which a player rolls a ball toward pins (in pin bowling) or another target (in target bowling).",
+    "price": 3000,
+    "image": "./Images/Bowl.jpg"
+  },
+  {
+    "name": "Knife Spoon & Fork",
+    "id": 22,
+    "details": "Each silverware is sized for a child's little mouth and fingers; handles with smooth edges, forks have rounded tines, while knives have non-serrated blades. Find & Download Free Graphic Resources for Fork Knife Spoon. 12000+ Vectors, Stock Photos & PSD ... You'll see useful information here soon. Stay tuned!.",
+    "price": 1200,
+    "image": "./Images/Knife Spoon & Fork.jpg"
+  },
+  {
+    "name": "Sink",
+    "id": 23,
+    "details": "A sink, also known by other names including sinker, washbowl, hand basin, wash basin and simply basin, is a bowl-shaped plumbing fixture for washing hands. A sink in a kitchen is used for washing dishes and preparing food. Specifications for kitchen sink shall conform IS 13983: 1994 as given below.",
+    "price": 2500,
+    "image": "./Images/Sink.jpg"
+  },
+  {
+    "name": "Cleanser",
+    "id": 24,
+    "details": "In this case, a cleanser is a facial care product that is used to remove make-up, skin care product residue, microbes, dead skin cells, oils, sweat, dirt and other types of daily pollutants from the face.",
+    "price": 1200,
+    "image": "./Images/Cleanser.png"
+  },
+  {
+    "name": "Lipstick",
+    "id": 25,
+    "details": "Lipsticks may be made from several waxes such as beeswax, ozokerite, and candelilla wax. Because of its high melting point, carnauba wax is a key ingredient in terms of strengthening the lipstick. Various oils and fats are used in lipsticks, such as olive oil, mineral oil, cocoa butter, lanolin, and petrolatum.",
+    "price": 4000,
+    "image": "./Images/lipstick.png"
+  },
+  {
+    "name": "Makeup brush",
+    "id": 26,
+    "details": "General Face Brushes: Powder Brush; Tapered Foundation Brush; Stippling Brush; Kabuki Brush; Contour Brush; Silicone Blender; Beauty Blender; Fan Brush; Blush. A makeup brush is a tool with bristles, used for the application of makeup or face painting. The bristles may be made out of natural or synthetic materials",
+    "price": 1700,
+    "image": "./Images/Makeup brush.png"
+  },
+  {
+    "name": "Makeup Pallet",
+    "id": 27,
+    "details": "Create easy, natural-looking makeup looks by shopping for a range of makeup palettes from Victoria's Secret, SHANY Cosmetics. Get a Blend The Rules Eyeshadow Palette and a Pouch on a spend of Rs.1298 Know More>. + more. wishlistImg. ADD TO CART. DELIVERY DETAILS.",
+    "price": 15000,
+    "image": "./Images/Makeup Pallet.png"
+  },
+  {
+    "name": "Small Makeup Pallet",
+    "id": 28,
+    "details": "Pro Small Makeup Eye shadow Palette 32 colors Fashion Eye Shadow Make Up Shadows With Case Cosmetics For Women M02321 Description: 100%. DIY Magnetic Eyeshadow Palette - Tutorial Update ... Pretty Little Details - Winnipeg Fashion and Lifestyle Blog: DIY makeup palette (and a GIVEAWAY!).",
+    "price": 2800,
+    "image": "./Images/Small Makeup Pallet.png"
+  }
+]
